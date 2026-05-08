@@ -21,7 +21,9 @@ I'm a Software Engineer and AltSchool Africa student passionate about building s
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mujab-ayo&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="mujab's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujab-ayo&langs_count=8&layout=compact&hide_border=true&theme=default" alt="mujab's GitHub stats" /> |
-| ------------- | ------------- |
+![mujab-ayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujab-ayo&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mujab-ayo&layout=compact&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mujab-ayo&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mujab-ayo&color=6773E5&style=for-the-badge)
